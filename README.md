@@ -1,8 +1,8 @@
 # 🌊 Cauã Gabriel
 **Seja bem-vindo ao meu perfil!**
-> "Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke 🎩🪄
+> "Bip-bip-bop-bip-bop-bip" – R2D2 ⭐
 
-Oi, eu sou o Eliseu, um estudante apaixonado por **tecnologia, neurociência e economia**. Acredito que, ao combinar esses conhecimentos, é possível construir um mundo mais mágico, encantador e humano, onde a inovação vai além da lógica — tocando também a mente e o coração das pessoas.
+Oi, me chamo Cauã, um estudante apaixonado por **tecnologia e programação**.
 Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauagls/)
