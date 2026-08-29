@@ -25,8 +25,6 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 <br/>
 
 ---
-## 📊 Estatísticas
-![Gráfico de contribuições](https://ghchart.rshah.org/CauaGLS)
 
 
 ## 🐍 Snake Game
